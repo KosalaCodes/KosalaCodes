@@ -49,12 +49,13 @@ I am a Computer Science undergraduate at NSBM Green University. I love building 
 ---
 
 ### 📫 Contact Me
-
-<p align="left">
+<div align="center">
+<p align="center">
   <a href="mailto:kosalapk756@gmail.com">
     <img src="https://img.shields.io/badge/Email-kosalapk756@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/kosala-pushpakumara">
+  <a href="https://www.linkedin.com/in/kosala-pushpakumara-2a64b22b5/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+</div>
