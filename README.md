@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi I,m Kosala Pushpakumara 👋
+# Hi I'm Kosala Pushpakumara 👋
 
 <img src="https://komarev.com/ghpvc/?username=KosalaCodes&label=PROFILE+VIEWS&style=for-the-badge&color=36BCF7&label_color=111111" alt="Profile Views" />
 
